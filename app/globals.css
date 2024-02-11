@@ -5,7 +5,7 @@
 
 
 :root{
-    --bg: #28212e;
+    --bg: #130117;
    --text: #eee5f8;
 
 
@@ -15,11 +15,5 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    background-color: var(--bg);
-    color: var(--text);
-}
-a{
-    color: indianred;
-    text-decoration: none;
-}
+
+
